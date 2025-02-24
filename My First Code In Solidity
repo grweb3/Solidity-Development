@@ -9,6 +9,4 @@ contract myFirstContract{
     address myAddress = 0xbD3271160F07f2304913eCC76253959d4CC92B3f;
     bytes32 favBytes32 = "dog";
     uint256 favNumber2; //if no value is given then favNumber will be assigned as 0
-     
-
 }
